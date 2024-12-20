@@ -25,12 +25,12 @@ Welcome to our Ecomzy-Store Frontend project! This modern, responsive e-commerce
 
 2. Navigate to the project directory:
    ```
-   cd shopping-website-frontend
+   cd Ecomzy-Store
    ```
 
 3. Install dependencies:
    ```
-   npm install
+   npm install 
    ```
 
 4. Run the development server:
