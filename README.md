@@ -1,4 +1,4 @@
-# Shopping Website Frontend
+# Ecomzy Store
 
 Welcome to our Ecomzy-Store Frontend project! This modern, responsive e-commerce platform is built using React and Tailwind, providing a seamless shopping experience for users.
 
